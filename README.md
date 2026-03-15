@@ -1,24 +1,33 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Nick Socci
+
+Manager, Data Analytics at Charter Communications and a computer science student at Oregon State University.
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I enjoy building practical software with a focus on analytics, automation, and clean engineering fundamentals. My work sits at the intersection of data and software, and I like projects that turn messy processes into simple, reliable tools.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 💼 Current background: Data analytics leadership and technical problem solving
+- 🎓 Education: Oregon State University, Computer Science
+- 🌱 Currently learning: Cloud tooling, developer workflows, and deeper CS fundamentals
+- 🛠️ What I build: Python projects, coursework, small experiments, and GitHub-based demos
+
+## Selected Work
+
+- [skills-code-with-codespaces](https://github.com/nick-socci/skills-code-with-codespaces) — A small GitHub Codespaces exercise focused on development environment workflows. `Shell`
+- [skills-introduction-to-github](https://github.com/nick-socci/skills-introduction-to-github) — A hands-on repo for practicing GitHub fundamentals and collaboration flow. `Markdown`
+- [git_intro](https://github.com/nick-socci/git_intro) — A lightweight repository for learning and demonstrating core Git concepts. `Git`
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 Core tools: Python, GitHub, Shell, SQL, analytics workflows
+- 🔭 Areas of focus: Data analytics, automation, software engineering, cloud learning
+- 📚 Ongoing interests: Computer science fundamentals, developer productivity, practical systems
+
+## GitHub Snapshot
+
+- Public repositories: 7
+- Building on GitHub since 2020
+- Profile: [github.com/nick-socci](https://github.com/nick-socci)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
